@@ -16,7 +16,7 @@ Run this table with this code, you will get the table:
 | B  | 11  | 22  |
 | C  | 11  | 22  |
 | B  | 25  | 45  |
-| A  | 25  | 45  |
+| D  | 25  | 45  |
 
 PLEASE BE NOTIFED, the table format you use the table would be:
 1. The first column would always be the merged asset ids you want to break down
